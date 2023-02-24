@@ -1,0 +1,29 @@
+body {
+    background: aquamarine;
+    font: 200 arial;
+    margin: center;
+}
+header {
+    color: blue;
+    margin: center;
+    text-align: center;
+}
+section {
+    background: rgb(109, 230, 129);
+    margin: auto;
+    border-radius: 400px;
+    text-align: center;
+}
+h2 {
+    color: rgb(15, 9, 1);
+}
+p {
+    color: white;
+}
+div {
+    border-radius: 200px;
+    background-color: rgb(4, 148, 52);
+    padding: 1.5px;
+    width: 500px;
+    margin: auto;
+}
